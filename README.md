@@ -1,4 +1,4 @@
-# fun-001-syntax - Python Fundamentals & Problem Solving (Syntax)
+# Python Fundamentals & Problem Solving (Syntax)
 
 ## Learning Outcomes assessed
 
